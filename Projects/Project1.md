@@ -44,8 +44,8 @@ Afterwards, with using the scale, you can relavitly determine how to check vario
 
 In this picture of a George varient, let's assume the current feature is the eye. The address for the byte is stored in some register. Becuase my scale factor is 1, I just need to go down 2 blocks and right 1 block. My first attempt wrote it in terms for a row variable, `i`, and a column variable, `j`, but it's much more effecient to simply shift the current address down 2 two (add 128 bytes) plus right 1 (add 1 more byte). And using shifting bits rather than multiplying makes it much faster. 
 
-My final statistics were as follows (unoffical ungraded): 
+My final statistics were as follows: 
 
-80 static instructions, 1079 dynamic instructions, 8 words of storage required
+80 static instructions, 1037 dynamic instructions, 8 words of storage required
 
-Pretty good benchmarks 😎
+Pretty good benchmarks that crush the baseline of 90 static, 2,400 dynamic, and 17 words of storage 😎
