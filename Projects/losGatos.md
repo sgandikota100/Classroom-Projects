@@ -10,15 +10,7 @@ outline of the game was given, I was given creative control on how that game sho
 hold the list of all objects on the map (so the object's location is the key). Additional classes build on this functionality or add 
 additional graphics for the game itself (such as all the icons, the menus, and the speech bubbles). 
 
-<iframe
-    width="640"
-    height="480"
-    src="https://youtu.be/4z15ww67RLI"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+Here's my demo video: [video!](https://youtu.be/4z15ww67RLI) 
 
 ## What I learned 
 With prior exposure to hashmaps (in the data structures and algorithms class), I had a good idea on how hashmaps work. The game was 
