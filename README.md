@@ -1,4 +1,4 @@
-# ECE Portfolio
+# ECE Project Portfolio
 
 Duration: Fall 2022 - Present 
 
