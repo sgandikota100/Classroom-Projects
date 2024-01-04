@@ -9,5 +9,5 @@ It was being able to take what I learned and applying it to cool projects. And i
 it's super fun to show my non-tech savy friends what I can do! 
 
 ## Projects
-- CS 20340: Hangman, Yahtzee, and Connect Four
+- CS 2340: Hangman, Yahtzee, and Connect Four
 - ECE 2035: Find George and los gatos 
