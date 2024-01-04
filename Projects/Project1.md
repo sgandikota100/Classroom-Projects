@@ -1,4 +1,7 @@
-# Project 1 
+# Find George
+
+Class: ECE 2035 
+Year: Fall 2023
 
 ## The Assignment
 "This project focuses on a constrained search problem: finding an exact match pattern, variably
